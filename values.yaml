@@ -1,6 +1,5 @@
-replicaCount: 3
-image:
-  repository:476498784073.dkr.ecr.us-east-1.amazonaws.com
+replicaCount: 2
+image: repository:476498784073.dkr.ecr.us-east-1.amazonaws.com
   tag: "8827303"
   pullPolicy: IfNotPresent
 service:
