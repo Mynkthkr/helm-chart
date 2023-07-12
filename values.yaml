@@ -1,7 +1,7 @@
 replicaCount: 3
 image:
   repository: nginx
-  tag: stable
+  tag: "4aac57a"
   pullPolicy: IfNotPresent
 service:
   type: LoadBalancer
