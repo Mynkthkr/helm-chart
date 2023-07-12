@@ -1,5 +1,6 @@
 replicaCount: 2
-image: repository:476498784073.dkr.ecr.us-east-1.amazonaws.com
+image: 
+  repository: repository:476498784073.dkr.ecr.us-east-1.amazonaws.com
   tag: "99bc704"
   pullPolicy: IfNotPresent
 service:
