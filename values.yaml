@@ -1,6 +1,6 @@
 replicaCount: 2
 image: repository:476498784073.dkr.ecr.us-east-1.amazonaws.com
-  tag: "8827303"
+  tag: "99bc704"
   pullPolicy: IfNotPresent
 service:
   type: LoadBalancer
