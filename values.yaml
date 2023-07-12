@@ -1,7 +1,7 @@
 replicaCount: 2
 image: 
   repository: 476498784073.dkr.ecr.us-east-1.amazonaws.com/argo
-  tag: "4c105b5"
+  tag: "d7e0554"
   pullPolicy: IfNotPresent
 service:
   type: LoadBalancer
