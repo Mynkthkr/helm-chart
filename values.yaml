@@ -1,6 +1,6 @@
 replicaCount: 2
 image: 
-  repository: 476498784073.dkr.ecr.us-east-1.amazonaws.com
+  repository: 476498784073.dkr.ecr.us-east-1.amazonaws.com/argo
   tag: "882328b"
   pullPolicy: IfNotPresent
 service:
